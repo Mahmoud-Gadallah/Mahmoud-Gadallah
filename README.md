@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m a Front-end Web Developer
 - 💡 I’m interested in the tech industry in general and everything related to it
-- 📚 My current knowledge: HTML, CSS, JavaScript, Node.js
+- 📚 My current knowledge: HTML, CSS, JavaScript, React.js(Learning in progress..)
 - 📫 Reach me at mahmoud_gadallah@outlook.com
 
 
