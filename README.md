@@ -4,8 +4,8 @@
 - 📚 My current knowledge: HTML, CSS, JavaScript, Vue.js, TailwindCSS
 - 📫 Reach me at mahmoud_gadallah@outlook.com
 
+## Technologies and tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git,github,npm,vue,tailwindcss,vite,postman)](https://skillicons.dev)
+
 <!--- - 🌱 I’m currently learning ... --->
-<!---
-Mahmoud-Gadallah/Mahmoud-Gadallah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
