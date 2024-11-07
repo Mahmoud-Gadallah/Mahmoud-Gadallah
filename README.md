@@ -6,6 +6,6 @@
 
 ## Technologies and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git,github,npm,vue,tailwindcss,vite,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,git,github,npm,react,vue,tailwindcss,vite,postman)](https://skillicons.dev)
 
 <!--- - 🌱 I’m currently learning ... --->
